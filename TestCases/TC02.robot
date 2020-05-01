@@ -1,2 +1,5 @@
-*** Selenium ***
-Library   SeleniumLibrary
+*** Settings ***
+Library  SeleniumLibrary
+*** Variables ***
+*** Test Cases ***
+
